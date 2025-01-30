@@ -20,7 +20,7 @@ const OTR_MINT = new PublicKey(“Your Token”);
 
 The code trades according to the current price, update this part according to your token.
 
- const otrResp = await fetch(“https://api.dexscreener.com/latest/dex/tokens/Sizin mint address of the token”);
+ const otrResp = await fetch(“https://api.dexscreener.com/latest/dex/tokens/your mint address of the token”);
 
 
 If your token is not available. You can use another api provider.
